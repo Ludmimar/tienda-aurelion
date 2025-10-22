@@ -1,0 +1,22 @@
+id,nombre,categoria,precio,stock,descripcion,proveedor
+1,Espada Celestial,Armas,1500,25,Espada forjada con metal estelar,Forja Celestial
+2,Armadura de Dragón,Armaduras,3000,15,Armadura resistente hecha de escamas de dragón,Herrería Dragón
+3,Poción de Vida,Pociones,50,200,Restaura 100 puntos de vida,Alquimia Místika
+4,Poción de Maná,Pociones,75,150,Restaura 150 puntos de maná,Alquimia Místika
+5,Arco Élfico,Armas,1200,30,Arco ligero con precisión mejorada,Artesanía Élfica
+6,Escudo de Acero,Escudos,800,40,Escudo resistente de acero reforzado,Forja Celestial
+7,Casco de Hierro,Armaduras,500,50,Casco básico de protección,Herrería Dragón
+8,Botas de Velocidad,Calzado,600,35,Aumentan la velocidad de movimiento,Zapatería Rápida
+9,Guantes de Fuerza,Accesorios,450,45,Incrementan la fuerza del portador,Artesanía Élfica
+10,Anillo Mágico,Accesorios,900,20,Anillo que aumenta poder mágico,Joyería Arcana
+11,Capa de Invisibilidad,Capas,2500,10,Otorga invisibilidad temporal,Tejeduría Sombría
+12,Báculo Ancestral,Armas,2000,12,Báculo con poderes antiguos,Alquimia Místika
+13,Pergamino de Fuego,Consumibles,100,80,Lanza una bola de fuego,Scriptorium Mágico
+14,Pergamino de Hielo,Consumibles,100,80,Lanza un rayo de hielo,Scriptorium Mágico
+15,Elixir Supremo,Pociones,200,50,Restaura vida y maná completamente,Alquimia Místika
+16,Daga Envenenada,Armas,700,60,Daga que causa daño por veneno,Forja Sombría
+17,Grimorio Antiguo,Libros,1800,8,Libro de hechizos poderosos,Biblioteca Arcana
+18,Amuleto Protector,Accesorios,650,55,Reduce daño recibido,Joyería Arcana
+19,Flechas Mágicas,Municiones,25,500,Flechas encantadas (paquete de 20),Artesanía Élfica
+20,Gema de Resurreción,Consumibles,5000,3,Revive al portador tras morir,Joyería Arcana
+21,Corona del Sabio,Accesorios,2200,7,Incrementa la inteligencia y el poder mágico del portador,Joyería Arcana
